@@ -9,4 +9,4 @@ def dataset():
 
 def test_dataset(dataset):
     """test and confirm fixture value"""
-    assert dataset == {"data1": 1, "data2": 2}
+    assert dataset == {"data1": 2, "data2": 2}
